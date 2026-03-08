@@ -1,4 +1,5 @@
-                  Travel Agency Knowledge Representation Model
+   Travel Agency Knowledge Representation Model
+                
 
 Project Overview
 
@@ -9,6 +10,7 @@ The goal is to represent relationships between different entities involved in a 
 This type of knowledge representation can be used in expert systems, decision-support systems, and intelligent travel recommendation platforms.
 
 Objectives
+
 The main objectives of this project are:
 
 To analyze the Travel Agency domain and identify key knowledge elements.
@@ -21,6 +23,7 @@ To demonstrate how knowledge representation supports client service automation
 
 
  Subject Area Description
+ 
  A travel agency works with clients to provide travel-related services such as:
  Tour package selection
 
